@@ -1,0 +1,66 @@
+sunny: 
+  hot: 
+    humid: 
+      windy: NO
+      not_windy: NO
+    dry: 
+      windy: NO
+      not_windy: YES
+  cool: 
+    humid: 
+      windy: NO
+      not_windy: NO
+    dry: 
+      windy: YES
+      not_windy: YES
+  cold: 
+    humid: 
+      windy: NO
+      not_windy: NO
+    dry: 
+      windy: NO
+      not_windy: YES
+rainy: 
+  hot: 
+    humid: 
+      windy: NO
+      not_windy: NO
+    dry: 
+      windy: NO
+      not_windy: YES
+  cool: 
+    humid: 
+      windy: NO
+      not_windy: YES
+    dry: 
+      windy: YES
+      not_windy: YES
+  cold: 
+    humid: 
+      windy: NO
+      not_windy: NO
+    dry: 
+      windy: NO
+      not_windy: YES
+cloudy: 
+  hot: 
+    humid: 
+      windy: NO
+      not_windy: YES
+    dry: 
+      windy: YES
+      not_windy: YES
+  cool: 
+    humid: 
+      windy: YES
+      not_windy: YES
+    dry: 
+      windy: YES
+      not_windy: YES
+  cold: 
+    humid: 
+      windy: NO
+      not_windy: YES
+    dry: 
+      windy: YES
+      not_windy: YES
